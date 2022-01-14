@@ -1,3 +1,3 @@
 # fallingspirit.xyz
 
-/world pwner
+Self link-tree website
